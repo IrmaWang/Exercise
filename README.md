@@ -1,2 +1,2 @@
-# Exercise 1
+# Exercise
 R for Data Science 
